@@ -1,4 +1,4 @@
 from Funcoes import limpartela
 
 limpartela()
-print("olá mundo")
+print("olá mundo!")
